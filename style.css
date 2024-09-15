@@ -5,9 +5,3 @@ body{
     font-weight: 500;
     font-style: normal;
 }
-
-.gamelist{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
