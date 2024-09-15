@@ -5,13 +5,3 @@ body{
     font-weight: 500;
     font-style: normal;
   }
-
-.gamelist{
-    position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    
-    margin: auto;
-}
